@@ -10,7 +10,12 @@
 ### 4. Perform QA measures to ensure results obtained during analysis is accurate
 
 ## Results
-1. 
+1. San Francisco, Sunnyvale, Atlanta and Palo Alto were the highest revenue generating cities
+2. United, States, Israel, Australia and Canada were the highest revenue generating countries
+3. Ballpoint LED pen, Google 17oz stainless steel sport bottle and Leatherette Journal were among the top 3 revenue generating products
+4. The month of July had the most revenue generating sales
+5. The month of August had the least revenue
+6. Total revenue increased 122 % from year 2016 to 2017
 
 ## Challenges 
 1. Lack of Domain Knowledge
