@@ -20,7 +20,7 @@ WHERE "revenue" IS NOT NULL
 
 
 
-Answer: The highest level of revenues on the site came from the United States within cities San Francisco, Sunnyvale, Atlanta, Palo Alto and tel Aviv-Yafo
+Answer: The highest level of revenues on the site came from the United States within cities San Francisco, Sunnyvale, Atlanta and Palo Alto 
 
 
 
