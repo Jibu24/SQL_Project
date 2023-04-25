@@ -4,7 +4,7 @@
 - Main objective was to transform raw, unformatted ecommerce data to a more organized and readable manner so we could perform simple analysis using SQL
 
 ## Process
-### 1. Import data in csv file into postgresql database using the correct column constraints and data types
+### 1. Import data in csv file into SQL database using the correct column constraints and data types
 ### 2. Clean and format data into more recognizable manner for analysis
 ### 3. Perform data analysis allowed by SQL queries
 ### 4. Perform QA measures to ensure results obtained during analysis is accurate
